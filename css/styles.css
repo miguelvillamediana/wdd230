@@ -19,9 +19,8 @@ h2 {
     border-bottom: 1px solid #bbb;
 }
 
-
 header, main, footer {
-    margin:1.7rem   auto;
+    margin:1.7rem auto;
     padding:1.2rem;
     max-width: 1000px;
 }
@@ -49,5 +48,9 @@ header, footer, footer a {
 }
 
 footer {
-    font-size: 13px;
+    font-size: 1.1em;
+}
+
+footer .yellow{
+    color: rgb(247, 247, 44);
 }
