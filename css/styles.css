@@ -6,11 +6,11 @@ body {
 }
 
 .grid{
-    display: grid;
+    display: block;
 }
 
 h1 {
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: #e6f9ff;
 }
 
@@ -30,7 +30,8 @@ header, footer, footer a {
     background-color: rgb(51,119,170);
     color: whitesmoke;
     border-radius: 10px;
-    box-shadow: 3px 3px 5px 6px #ccc
+    box-shadow: 3px 3px 5px 6px #ccc;
+    font-family: Raleway, Helvetica, sans-serif;
 }
 
 .grid img{

@@ -1,0 +1,11 @@
+@media (min-width: 32.5em) {
+    h1 {
+        font-size: 2rem;
+    }
+    .grid img{
+        width: 50%;
+    }
+    .grid{
+        display: grid;
+    }
+}
